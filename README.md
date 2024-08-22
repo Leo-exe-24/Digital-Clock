@@ -12,7 +12,7 @@ Easy to integrate into other projects
 <B>Installation</B>
 
 <B>Clone the repository:</B>
-git clone https://github.com/yourusername/digital-clock.git
+git clone https://github.com/Leo-exe-24/Digital-Clock.git
 
 <B>Navigate to the project directory:</B>
 cd digital-clock
