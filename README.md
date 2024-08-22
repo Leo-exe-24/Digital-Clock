@@ -21,8 +21,8 @@ cd digital-clock
 Open the index.html file in your web browser to see the digital clock in action.
 (Optional) Customize the appearance and functionality by editing the HTML files.
 
-<B>Contributing</B>
+<B>Contributing</B><br>
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-<B>License</B>
+<B>License</B><br>
 This project is licensed under the MIT License. See the LICENSE file for details.
