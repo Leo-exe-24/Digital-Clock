@@ -26,3 +26,5 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 <B>License</B><br>
 This project is licensed under the MIT License. See the LICENSE file for details.
+<img width="1862" height="886" alt="image" src="https://github.com/user-attachments/assets/7b52666d-bd9e-4b53-8a15-fb6d65321626" />
+
